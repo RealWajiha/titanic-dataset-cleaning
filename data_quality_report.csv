@@ -1,0 +1,8 @@
+Metric,Before Cleaning,After Cleaning
+Rows,891,891
+Columns,11,11
+Duplicate Rows,0,0
+Missing Cells,0,0
+Integer Columns,5,5
+Float Columns,2,2
+Object Columns,4,4
